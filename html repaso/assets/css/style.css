@@ -1,0 +1,20 @@
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 400px;
+}
+
+.enlace{
+    display: block; /*Ahora elemente se comporta como bloque  inline-block*/
+    background-color: rgb(31, 105, 201);
+    align-items: center;
+}
+
+#bloque{
+    /*display: inline; Ahora elemente se comporta como bloque  inline-block*/
+    background-color: rgb(247, 40, 12);
+    text-align: center;
+    
+}
